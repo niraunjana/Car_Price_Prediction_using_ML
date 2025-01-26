@@ -10,6 +10,9 @@ Car price prediction is a popular application of machine learning, addressing th
 -- Mileage and performance.
 -- Age of the car and other market trends.
 
+![image](https://github.com/user-attachments/assets/e1868615-e718-4027-9c00-8a0f0392e9fe)
+
+
 This project focuses on developing a machine learning pipeline to predict car prices accurately. By leveraging various regression algorithms, we analyze and model the relationships between car attributes and their prices.
 
 
