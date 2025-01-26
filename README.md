@@ -31,7 +31,7 @@ Evaluate the models using appropriate metrics like R² score, Mean Absolute Erro
 
 Visualize feature importance and prediction results to provide actionable insights.
 
-### Machine Learning Models Used
+## Machine Learning Models Used
 
 ### Random Forest Regressor:
 A popular ensemble method that builds multiple decision trees and averages their results for robust predictions.
